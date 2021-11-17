@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">
   
-  Web developer and student at [Driven](https://www.driven.com.br/)
+  Studying web development at [Driven](https://www.driven.com.br/)
   
 </h2>
 
